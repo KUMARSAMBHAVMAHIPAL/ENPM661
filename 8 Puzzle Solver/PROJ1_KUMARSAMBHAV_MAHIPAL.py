@@ -9,7 +9,7 @@ import numpy as np
 import copy 
 import time
 
-Goal_Node = [[1, 2, 3], [8, 0, 4], [7, 6, 5]]
+Goal_Node = [[1, 2, 3], [4, 5, 7], [7, 8, 0]]
 Node_State = []
 Parent_Node_Index = []
 Nodes_Information = []
